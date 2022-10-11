@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1660741902 source:c:\users\geeks4learning\documents\codeblocks\banking\src\credit.cpp
+	"Credit.h"
+
+1661260977 c:\users\geeks4learning\documents\codeblocks\banking\include\credit.h
+	"Account.h"
+
+1660813992 source:c:\users\geeks4learning\documents\codeblocks\banking\main.cpp
+	<iostream>
+	"Savings.h"
+
+1661260320 c:\users\geeks4learning\documents\codeblocks\banking\include\savings.h
+	<iostream>
+	"Account.h"
+
+1661238758 c:\users\geeks4learning\documents\codeblocks\banking\include\account.h
+	<string>
+
+1660813255 source:c:\users\geeks4learning\documents\codeblocks\banking\src\account.cpp
+	"Account.h"
+
+1661261036 source:c:\users\geeks4learning\documents\codeblocks\banking\src\savings.cpp
+	"Savings.h"
+	"Account.h"
+
